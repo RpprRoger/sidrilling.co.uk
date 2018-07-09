@@ -53,7 +53,7 @@
     "progress-barjs": "2.2.1",
     "request-frame": "1.5.3",
     "stat-mode": "0.2.2",
-    "uglify-js": "3.4.0"
+    "uglify-js": "3.4.1"
   },
   "devDependencies": {
     "blurmage": "1.0.2",
