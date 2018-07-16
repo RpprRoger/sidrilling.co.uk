@@ -16,7 +16,7 @@
   "author": "Robert Preus-MacLaren",
   "license": "GNUv3",
   "dependencies": {
-    "autoprefixer": "8.6.2",
+    "autoprefixer": "8.6.3",
     "babel-cli": "6.26.0",
     "babel-preset-es2015": "6.24.1",
     "babelify": "8.0.0",
