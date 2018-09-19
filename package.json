@@ -22,7 +22,7 @@
     "babelify": "8.0.0",
     "browserify": "16.2.2",
     "cheerio": "0.22.0",
-    "circular-json": "0.5.4",
+    "circular-json": "0.5.5",
     "classlist-polyfill": "1.2.0",
     "concurrently": "3.5.1",
     "cssnano": "3.10.0",
