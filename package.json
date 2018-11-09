@@ -48,7 +48,7 @@
     "metalsmith-metadata-as-list": "0.1.0",
     "metalsmith-permalinks": "0.5.0",
     "metalsmith-postcss": "4.1.1",
-    "normalize.css": "8.0.0",
+    "normalize.css": "8.0.1",
     "postcss-import": "11.1.0",
     "progress-barjs": "2.2.1",
     "request-frame": "1.5.3",
