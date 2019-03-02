@@ -52,7 +52,7 @@
     "postcss-import": "11.1.0",
     "progress-barjs": "2.2.1",
     "request-frame": "1.5.3",
-    "stat-mode": "0.2.2",
+    "stat-mode": "0.3.0",
     "uglify-js": "3.4.0"
   },
   "devDependencies": {
