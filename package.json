@@ -36,7 +36,7 @@
     "hamburgers": "0.9.3",
     "handlebars": "4.0.11",
     "headroom.js": "0.9.4",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "metalsmith": "2.3.0",
     "metalsmith-assets": "0.1.0",
     "metalsmith-browserify": "1.0.0",
