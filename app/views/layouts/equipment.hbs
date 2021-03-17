@@ -3,19 +3,19 @@
         <div class="columns">
             {{{contents}}}
         </div>
-        <div class="columns medium-9" id="sticky-target">
-            {{#each equipment}}
-                {{> media_object this}}
-            {{/each}}
-        </div>
-        <div class="columns medium-3" data-sticky-container>
-            <div class="sticky" data-sticky data-top-anchor="sticky-target" data-margin-top>
+        <div class="columns medium-3">
+            <div>
                 <ul class="vertical menu" data-magellan>
                     {{#each equipment}}
                         <li><a href="#{{safeString title}}">{{title}}</a></li>
                     {{/each}}
                 </ul>
             </div>
+        </div>
+        <div class="columns medium-9" id="sticky-target">
+            {{#each equipment}}
+                {{> media_object this}}
+            {{/each}}
         </div>
     </div>
 {{/layout}}
