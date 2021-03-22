@@ -9,7 +9,8 @@ The team in the office at headquarters in Norwich provide backup for the team dr
 
 - Bob MacLaren - Company Director
 - Helen Preus - Company Director
-- Lily Preus-MacLaren - Accounts Administrator
+- Lily Preus-MacLaren - Accounts Administrator (Prettiest Girl In The Office)
+- Steph Brighty - Does the books sometimes
 - Julie Forrest- Book-keeping
 
 ## Drilling teams
